@@ -1,1 +1,1 @@
-# movie_recommender
+This Movie Recommender System is a content-based recommendation project that suggests similar movies to users based on plot and genre similarity using NLP vectorization and cosine similarity. A simple and interactive Streamlit interface displays the top recommendations along with movie posters fetched through the TMDB API. This project was developed for learning purposes by following guidance from the CampusX YouTube tutorial.
